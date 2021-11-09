@@ -6,7 +6,6 @@
 
 ![garrido-code](https://github-readme-stats.vercel.app/api?username=garrido-code&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrido-code&langs_count=8)](https://github.com/garrido-code/github-readme-stats)
 
 ## Tecnologias que estou platicando.
 <div style="display: inline_block"><br/>
@@ -21,7 +20,6 @@
     <img align="center" alt="java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/>
 </div>
 
-
-Eu acho que uma regra simples de negócio é, se você fizer as coisas mais fáceis primeiro, então você pode realmente fazer um monte de progresso.
+### Os Grandes sucessos vem de ter a liberdade para falhar. 👨🏻‍💻🤓 
 
 Mark Zuckerberg
