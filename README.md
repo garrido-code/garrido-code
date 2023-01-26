@@ -5,7 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrido-code&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://img1.gratispng.com/20180503/ygq/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd562e66d85.8124523515254050269438.jpg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png">
+ <img align="center" alt="Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3103/3103984.png">
+ <img align="center" alt="Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
 </div>
  
  <br>
