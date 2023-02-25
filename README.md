@@ -1,4 +1,14 @@
 ## Bem-vindo(a) ao perfil  do Garrido-Dev 😁
+ <p>Olá! Seja bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos que desenvolvi ao longo do tempo, desde pequenos scripts até projetos mais complexos.
+
+Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca de novos desafios. 
+
+Além disso, sou adepto(a) do desenvolvimento ágil e sempre busco adotar boas práticas de programação.
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato comigo caso tenha alguma dúvida ou sugestão. Acredito que o compartilhamento de conhecimento é fundamental para o crescimento da comunidade de desenvolvimento e estou sempre disposto(a) a contribuir e aprender com outros desenvolvedores.
+
+Obrigado(a) pela visita e espero que encontre algo que seja útil ou interessante para você aqui! </p>
+
  <div>
   <a href="https://github.com/garrido-code">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garrido-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
