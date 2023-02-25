@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil  do Garrido-Dev 😁
- <p>Olá! Seja bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos que desenvolvi ao longo do tempo, desde pequenos scripts até projetos mais complexos.
+ <p> Aqui você encontrará uma variedade de projetos que desenvolvi ao longo do tempo, desde pequenos scripts até projetos mais complexos.
 
 Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca de novos desafios. 
 
