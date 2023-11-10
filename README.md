@@ -1,33 +1,27 @@
-## Bem-vindo(a) ao perfil  do Garrido-Dev 😁
- <p> Aqui você encontrará uma variedade de projetos que desenvolvi ao longo do tempo, desde pequenos scripts até projetos mais complexos.
+<h1 align="center">Oi 👋 , eu sou JAILSON GARRIDO</h1><h3 align="center">SOU DESENVOLVEDOR MOBILE FLUTTER</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=garrido-code&label=Profile%20views&color=0e75b6&style=flat" alt="garrido-code" /> </p>
 
-Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca de novos desafios. 
 
-Além disso, sou adepto(a) do desenvolvimento ágil e sempre busco adotar boas práticas de programação.
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo caso tenha alguma dúvida ou sugestão. Acredito que o compartilhamento de conhecimento é fundamental para o crescimento da comunidade de desenvolvimento e estou sempre disposto(a) a contribuir e aprender com outros desenvolvedores.
 
-Obrigado(a) pela visita e espero que encontre algo que seja útil ou interessante para você aqui! </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garrido-code" alt="garrido-code" /></a> </p><p align="left"> <a href="https://twitter.com/garridodev" target="blank"><img src="https://img.shields.io/twitter/follow/garridodev?logo=twitter&style=for-the-badge" alt="garridodev" /></a> </p>
 
- <div>
-  <a href="https://github.com/garrido-code">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garrido-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrido-code&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png">
- <img align="center" alt="Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3103/3103984.png">
- <img align="center" alt="Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
-</div>
- 
- <br>
- 
-  ###Veja mais conteudo sobre programação  nas  minhas redes.
-<div> 
-  <a href="https://instagram.com/garrido.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "jailsongarrido23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jailson-garrido-0245611b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
+- Como chegar até mim **jailsongarrido23#**
+
+<h3 align="left">Conecte-se 📫 comigo:</h3><p align="left">
+<a href="https://twitter.com/garridodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garridodev" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jailson-garrido-0245611b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jailson-garrido-0245611b6/" height="30" width="40" /></a></p><h3 align="left">
+
+
+Idiomas e Ferramentas:</ h3>
+<p align="esquerda"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garrido-code&show_icons=true&locale=en&layout=compact" alt="garrido-code" /></p><p>
+
+&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=garrido-code&show_icons=true&locale=en" alt="garrido-code" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garrido-code&" alt="garrido-code" /></p>
+
+
+
+
