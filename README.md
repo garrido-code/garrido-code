@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #ffffff; background-color: #000000">Hi 👋, I'm JAILSON GARRIDO</h1>
 <h3 align="center" style="color: #ffffff; background-color: #000000">SOU DESENVOLVEDOR MOBILE FLUTTER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garrido-code&label=Profile%20views&color=0e75b6&style=flat" alt="garrido-code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garrido-code&label=Profile%20views&color=blueviolet&style=flat" alt="garrido-code" /> </p>
 
 - 📫 How to reach me **jailsongarrido23@gmail.com**
 
@@ -19,6 +19,5 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=garrido-code&show_icons=true&locale=en" alt="garrido-code" /></p>
 
-![](https://komarev.com/ghpvc/?username=garrido-code)
 
 
