@@ -19,4 +19,6 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=garrido-code&show_icons=true&locale=en" alt="garrido-code" /></p>
 
+![](https://komarev.com/ghpvc/?username=garrido-code)
+
 
