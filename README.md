@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ffffff; background-color: #000000">Hi 👋, I'm JAILSON GARRIDO</h1>
-<h3 align="center" style="color: #ffffff; background-color: #000000">SOU ANALISTA DE DADOS 🎲 </h3>
+<h3 align="center" style="color: #ffffff; background-color: #000000">ANALISTA DE DADOS 🎲 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garrido-code&label=Profile%20views&color=blueviolet&style=flat" alt="garrido-code" /> </p>
 
