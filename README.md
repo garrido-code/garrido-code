@@ -1,22 +1,26 @@
-<h1 align="center" style="color: #ffffff; background-color: #000000">Hi 👋, I'm JAILSON GARRIDO</h1>
-<h3 align="center" style="color: #ffffff; background-color: #000000">ANALISTA DE DADOS 🎲 </h3>
+# 👋 Hello! Welcome to my Github profile.
+## My name is Jailson Garrido and my nickname is "Garrido-code"!
+- 🔭 Atualmente estou trabalhando em Projetos pessoais
+- 🌱 Atualmente estou aprendendo Analise de Dados
+- 📫 Como entrar em contato comigo: Jailsongarrido23@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garrido-code&label=Profile%20views&color=blueviolet&style=flat" alt="garrido-code" /> </p>
-
-- 📫 How to reach me **jailsongarrido23@gmail.com**
-
-<h3 align="left" style="color: #ffffff; background-color: #000000">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/garridodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garridodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jailson-garrido-0245611b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jailson-garrido-0245611b6/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left" style="color: #ffffff; background-color: #000000">Languages and Tools:</h3>
+## Ferramentas e Tecnologias 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garrido-code&show_icons=true&locale=en&layout=compact" alt="garrido-code" /></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=garrido-code&show_icons=true&locale=en" alt="garrido-code" /></p>
+## Contatos:
+<div>
+<a href="https://instagram.com/garrido.py" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "jailsongarrido@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jailson-garrido-0245611b6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
+<div>
+<a href="https://github.com/garrido-code">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-
+![Snake animation](https://github.com/garrido-code/garrido-code/blob/output/github-contribution-grid-snake.svg)
+          
